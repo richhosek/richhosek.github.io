@@ -1,2 +1,2 @@
 # Rich Hosek Personal Page
-!(view here)[https://richhosek.github.io]
+![view here](https://richhosek.github.io)
